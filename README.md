@@ -1,19 +1,17 @@
 # 
 <h1 align="center">
-  archangel AC
+  archangelAC
   <br>
 </h1>
 
 <h4 align="center">a windows kernal level modular anticheat solution written in rust</h4>
 
 <p align="center">
-  <a href="#key-features">Planned Features</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="#key-features">planned features</a> •
 </p>
 
 
-## Key Features
+## planned features
 
 * hwid features
   - required tpm2.0 and secure boot
@@ -35,16 +33,6 @@
 * input device monitoring
   - hardware abstraction layer monitoring
 
-
-
-
-## Credits
-
-- [me]([https://github.com/dylan15404])
-
-## License
-
-MIT
 
 ---
 
