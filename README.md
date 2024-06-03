@@ -13,25 +13,25 @@
 
 ## planned features
 
-* hwid features
-  - required tpm2.0 and secure boot
-  - firware vs hardware tpm differenciation
-  - wdk mmio tpm ek checker
+* hwid features                               🟥
+  - required tpm2.0 and secure boot         🟥
+  - firware vs hardware tpm differenciation 🟥
+  - wdk mmio tpm ek checker                 🟥
 
-* kernal level monitoring
-  - memory scanning
-  - system call interception
-  - code injection detection
+* kernal level monitoring                     🟥
+  - memory scanning                         🟥
+  - system call interception                🟥
+  - code injection detection                🟥
  
-* driver monitoring
-  - driver integrity checks
-  - rootkit detection
+* driver monitoring                           🟥
+  - driver integrity checks                 🟥
+  - rootkit detection                       🟥
 
-* system call interception
-  - hook detection
+* system call interception                    🟥
+  - hook detection                          🟥
  
-* input device monitoring
-  - hardware abstraction layer monitoring
+* input device monitoring                     🟥
+  - hardware abstraction layer monitoring   🟥
 
 
 ---
